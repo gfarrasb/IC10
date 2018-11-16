@@ -1,0 +1,29 @@
+1. Implementa un sistema en GNU/Linux on l'usuari demani per un fitxer de la vostra HOME i l'envii per correu electrònic com a adjunt.
+Pista: 
+
+read vari
+echo $vari (2+2 punts)
+
+2. Digues el nom del programari servidor de correu POP darrera de mail.technologyshop.cat. (1 punt)
+
+3. Instal·la i configura el programa claws-mail en la teva màquina Windows per tal de gestionar la teva bústia de correu electrònic @technologyshop.cat (3 punts).
+
+4. Implementa un sistema que passi l'antivirus en línia de comandes de la vostra HOME i trameti el resultat de manera automàtica a l'usuari root cada dia a les 00h. Pista: cat fitxer | mail root.
+(1 + 2 + 2)
+
+5. Crea un usuari en el vostre sistema GNU/Linux que es digui "correusegur", tramet-li un correu (amb el sistema que tu vulguis) i mostra'l a través del programa Squirrelmail. (1 + 1 + 1)
+
+6. Quina puntuació de spam té aquest correu electrònic ? http://lamevaip.com/support.eml (2 punts)
+
+7. Exemplifica la comanda del protocol POP3 TOP (2 punts)
+
+8. Crea una bústia nova en el teu servidor del MailEnable i demostra com envies un correu a aquesta bústia fent servir el protocol SMTP. (1+2)
+
+9. Estic trametent un correu i el retorna amb el missatge següent: "Recipient address rejected: User unknown in virtual mailbox table.". Què significa ? Explica-ho amb les teves paraules. (1 punt)
+
+10. Instal·la un nou plugin al SquirrelMail: https://squirrelmail.org/plugins.php (3 punts)
+
+11. Demostra el funcionament dels alias en un postfix. Pista: http://www.townx.org/blog/elliot/adding_aliases_to_postfix_on_ubuntu
+
+
+
